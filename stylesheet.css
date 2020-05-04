@@ -2,7 +2,6 @@ body {
   background-color: dimgray;
   color: white;}
 
-#page {margin-left: 5%;
-      margin-right: 5%}
+#page {margin: 5%}
 
 .text {padding: 5}
