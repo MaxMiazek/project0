@@ -1,7 +1,10 @@
 body {
-  background-color: dimgray;
   color: white;}
 
 #page {margin: 5%}
 
 .text {padding: 5}
+
+.list {margin-left: 5%;
+  margin-right: 5%;
+  color: black;}
